@@ -11,7 +11,7 @@
 
     <modules>
         <module>lbb-common</module>
-        <module>lbb-server</module>
+        <module>lbb-controller</module>
     </modules>
 
     <parent>
